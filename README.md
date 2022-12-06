@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @edgeDancer256
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Masters in Computer Science
 - 💞️ I’m looking to collaborate on any small projects
 - 📫 How to reach me luciferstrider@gmail.com
 
